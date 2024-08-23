@@ -24,3 +24,7 @@ Deliverables:
 A functional frontend application meeting the outlined requirements.
 Clean and well-documented code.
 Responsive design that works across various devices and screen sizes.
+
+
+
+asflaksjdf
